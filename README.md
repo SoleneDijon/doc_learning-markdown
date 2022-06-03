@@ -1,6 +1,6 @@
 
 
-# La MarkDown
+# MarkDown
 
 Le MarkDown est un langage de balisage plus facile à lire que le html. Un fichier MarkDown est enregistré avec l'extension `.md`.
 On peut utiliser Visual Studio Code pour coder en markdown. Utiliser le raccourci `CTRL + Shift + V` pour prévisualiser en direct le résultat sur Visual Studio Code.
